@@ -33,10 +33,10 @@
   <h1>Gateway time-out</h1>
   <p>The web server reported a gateway time-out error.</p>
   <ul>
-    <li>Ray ID: 86fd85e80a6d1583</li>
-    <li>Your IP address: 52.238.27.192</li>
+    <li>Ray ID: 86fdb181af4e10b8</li>
+    <li>Your IP address: 172.183.130.195</li>
     <li>Error reference number: 504</li>
-    <li>Cloudflare Location: San Jose</li>
+    <li>Cloudflare Location: Chicago</li>
   </ul>
 </div>
 
